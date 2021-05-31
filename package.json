@@ -1,0 +1,15 @@
+{
+  "name": "oauthautomation",
+  "version": "1.0.0",
+  "description": "This project lets you run the automation of oauth in your browser as if a real person is using UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mohnish Bhamra",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "3.6.0"
+  }
+}
